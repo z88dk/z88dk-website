@@ -16,7 +16,7 @@ toolchain easier to use and improve life for developers.
 
 ## z88dk is dedicated to z80 family machines
 
-Because we're focussed on z80 machines we can optimise! That
+Because we only target z80 family machines we can optimise! That
 means the core performance sensitive parts of the C standard
 library are written in 100% assembler.
 
