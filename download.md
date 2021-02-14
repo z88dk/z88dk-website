@@ -19,7 +19,8 @@ But, that's not recommended! We're always adding new features, and it's already 
 * Docker: https://hub.docker.com/repository/docker/z88dk/z88dk
 * Source: http://github.com/z88dk/z88dk
 
-Staying current is the best way to experience z88dk, taking advantage of the constant enhancements we add.
+Staying current is the best way to experience z88dk, taking advantage of the enhancements that are regularly
+added.
 
 [Installation instructions](https://github.com/z88dk/z88dk/wiki/installation) can be found on our wiki.
 
