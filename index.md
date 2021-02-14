@@ -5,8 +5,9 @@ Description: The z80 development kit
 
 # What is z88dk?
 
-z88dk is the only C and assembler development kit that allows the 
-creation of programs for over 100 z80-family machines. 
+z88dk is the only C and assembler development kit that 
+comes ready out-of-the-box to create programs for over
+100 z80-family machines.
 
 The project was started in 1998/9 to allow a TCP stack
 for the Cambridge z88 to be easily written. In recent years
