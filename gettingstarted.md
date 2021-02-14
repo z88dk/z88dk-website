@@ -7,21 +7,20 @@ Description: The z80 development kit
 
 Assuming you want to compile for a supported target, and with
 over 100 targets chances are you are! Then it's easy to
-produce an "executable" with z88dk, it's just a single command:
+produce an "executable" with z88dk, it's just a single command. Let's create a .TAP file for use with ZX Spectrum emulators:
 
 ```
 zcc +zx program.c -create-app
 ```
 
-Creates a .TAP file for ZX Spectrum emulators. Need it for CP/M?
+Need it for CP/M? Try this:
 
 ```
 zcc +cpm program.c -create-app
 ```
 
 And a `.com` file is created. Do you want to test the `.com` file using
-z80pack? We're going to need a disk image to make that easy, so
-lets do it:
+z80pack? It's much easier to test with a disk image, so lets create one:
 
 ```
 zcc +cpm program.c -create-app -subtype=z80pack

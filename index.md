@@ -32,9 +32,10 @@ application and not on figuring out how to turn a hex file
 into a loadable artefact. As a result, the default setup for z88dk
 is [configured](gettingstarted) to just make things work.
 
-However, we know developers love twiddling dials, we're developers 
+However, we know developers love twiddling knobs, we're developers 
 too after all, so with z88dk you can tune sizes of things, toggle
 features on and off, switch library implementations, override
 library implementations, bypass crts, turn off using the standard
 library. And yes, generate hex files should you wish!
+
 
