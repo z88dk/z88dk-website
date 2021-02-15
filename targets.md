@@ -6,14 +6,14 @@ Description: Supported targets
 When the project began back in 199x, as the name suggests, we only 
 supported the Cambridge z88, however fairly soon support was added 
 for the ZX Spectrum, then the Xircom REX6000 and now in 2021 over 100
- targets are supported.
+ targets are supported, some more obscure than others!
 
 There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Platform) however here's a lightly categorised list of the targets supported:
 
 <table>
 <tr>
     <th>Sinclair inspired</th>
-    :<th>TMS99x8 Derived</th>
+    <th>TMS99x8 Derived</th>
 </tr>
 <tr>
     <td>
@@ -137,6 +137,7 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
         </ul>
     </td>
     <td>
+        Vanilla CP/M z80 and 8080 +
         <ul>
             <li>Regnecentralen RC700</li>
             <li>Tiki-100</li>
