@@ -161,6 +161,7 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
 <tr>
     <td>
         <ul>
+            <li>Altair 8800</li>
             <li>DAI</li>
             <li>EACA EG2000</li>
             <li>Excalibur 64</li>
