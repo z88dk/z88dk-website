@@ -5,7 +5,7 @@ Description: Supported targets
 
 When the project began back in 199x, as the name suggests, we only 
 supported the Cambridge z88, however fairly soon support was added 
-for the ZX Spectrum, then the Xircom REX6000 and now in 2020 over 100
+for the ZX Spectrum, then the Xircom REX6000 and now in 2021 over 100
  targets are supported.
 
 There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Platform) however here's a lightly categorised list of the targets supported:
