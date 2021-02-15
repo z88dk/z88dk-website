@@ -40,6 +40,7 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
             <li>Colecovision Adam</li>
             <li>Casio PV-2000</li>
             <li>Hanimex Pencil II</li>
+            <li>LM80-C</li>
             <li>Nichibutsu My Vision</li>
             <li>Sega SC-3000/SG-1000</li>
             <li>Sega Master System </li>
@@ -177,6 +178,19 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
             <li>S1MP3</li>
             <li>TI82, TI83, Ti83+, TI85, Ti86</li>
             <li>Xircom Rex 6000</li>
+        </ul>
+    </td>
+</tr>
+<tr>
+    <th>Modern hardware</th>
+</tr>
+<tr>
+    <td>
+        <ul>
+            <li>RC2014</li>
+            <li>YAZ180</li>
+            <li>SC Z180 boards</li>
+            <li>HBIOS boards</li>
         </ul>
     </td>
 </tr>
