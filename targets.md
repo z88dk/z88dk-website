@@ -118,6 +118,7 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
             <li>Вектор-06Ц/Vector06c</li>
             <li>Krokha</li>
             <li>Lviv PK-01</li>
+            <li>Radio86-RK</li>
         </ul>
     </td>
 <tr>
@@ -151,7 +152,8 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
             <li>Otrona Attachè</li>
             <li>Microbee</li>
             <li>Toshiba Pasopia 7</li>
-            <li>Bondwell 1/2</li>
+            <li>Bondwell 12/14</li>
+            <li>Bondwell 2</li>
         </ul>
     </td>
 </tr>
