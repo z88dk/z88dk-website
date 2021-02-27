@@ -87,6 +87,7 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
             <li>NEC PC-8801</li>
             <li>S-OS (The Sentinel)</li>
             <li>Z80 TV Game</li>
+            <li>Sony SMC-70/SMC-777 (native)</li>
         </ul>
     </td>
     <td>
