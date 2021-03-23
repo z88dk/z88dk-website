@@ -1,6 +1,7 @@
 ---
 Title: Getting started
 Description: The z80 development kit
+Hidden: true
 ---
 
 ## Getting started
