@@ -1,3 +1,8 @@
+---
+Title: Screenshots
+Description: The z80 development kit
+---
+
 ## Screenshots
 
 Many completed projects have used z88dk, most projects have been games, including Timmy's flip-screen shoot-em ups [Future Looter](https://spectrumcomputing.co.uk/entry/27279/ZX-Spectrum/Future_Looter) running on the +zx:
@@ -18,7 +23,7 @@ and Timmy's graphical adventure game [Magical Tower Adventure](https://www.msxga
 <img src="images/msx_magical_tower_adventure.png" style="max-width: 30%;" />
 </center>
 
-not forgetting Stefan Bylund's brilliant port of [Magnetic](https://gitlab.com/strandgames/brahman/-/tree/master/zxnext_magnetic) which actually emulates an m68k to interpret Magnetic Scrolls text adventures:
+not forgetting Stefan Bylund's brilliant port of [Magnetic](https://gitlab.com/strandgames/brahman/-/tree/master/zxnext_magnetic) which actually emulates an m68k to interpret Magnetic Scrolls text adventures on the +zxn:
 
 <center>
 <img src="images/zxn_magnetic.png" style="max-width: 30%;" />
