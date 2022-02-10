@@ -170,6 +170,7 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
             <li>EACA EG2000</li>
             <li>Excalibur 64</li>
             <li>Nascom 2</li>
+            <li>PTC Sol20</li>
             <li>Exidy Sorcerer</li>
             <li>TRS80</li>
         </ul>
@@ -192,6 +193,7 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
 <tr>
     <td>
         <ul>
+            <li>Micro85</li>
             <li>RC2014</li>
             <li>YAZ180</li>
             <li>SC Z180 boards</li>
