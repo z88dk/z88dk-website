@@ -41,6 +41,7 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
             <li>Casio PV-2000</li>
             <li>Hanimex Pencil II</li>
             <li>LM80-C</li>
+            <li>NabuPC</li>
             <li>Nichibutsu My Vision</li>
             <li>Sega SC-3000/SG-1000</li>
             <li>Sega Master System </li>
