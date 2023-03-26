@@ -156,6 +156,7 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
             <li>Toshiba Pasopia 7</li>
             <li>Bondwell 12/14</li>
             <li>Bondwell 2</li>
+            <li>Gemini Galaxy</li>
         </ul>
     </td>
 </tr>
