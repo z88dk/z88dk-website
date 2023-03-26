@@ -33,6 +33,7 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
     <td>
         <ul>
             <li>MSX1</li>
+            <li>MSX2</li>
             <li>SpectraVideo 318</li>
             <li>Sord M5</li>
             <li>Memotech MTX</li>
