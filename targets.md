@@ -45,7 +45,9 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
             <li>NabuPC</li>
             <li>Nichibutsu My Vision</li>
             <li>Sega SC-3000/SG-1000</li>
-            <li>Sega Master System </li>
+            <li>Sega Master System + Gamegear</li>
+            <li>Tatung Einstein</li>
+            <li>Tatung Einstein 256</li>
         </ul>
     </tr>
 <tr><th>MC6847 Derived</th><th>Other Home Computers</th></tr>
