@@ -108,12 +108,13 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
 <tr>
     <td>
         <ul>
-            <li>Robotron Z9001, KC85/1, KC87</li>
-            <li>Robotron HC-900, KC85/2..KC85/5</li>
+            <li>BIC/A5105</li>
             <li>Hübler/Evert-MC</li>
             <li>Hübler Grafik-MC</li>
             <li>Kramer MC</li>
             <li>Robotron Z1013</li>
+            <li>Robotron Z9001, KC85/1, KC87</li>
+            <li>Robotron HC-900, KC85/2..KC85/5</li>
         </ul>
     </td>
     <td>
@@ -134,32 +135,36 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
     <td>
         <ul>
             <li>Galaxija</li>
-            <li>Primo</li>
-            <li>TVC Videoton</li>
-            <li>PMD85</li>
             <li>Homelab 2</li>
             <li>Homelab 4</li>
             <li>Ondra</li>
+            <li>PMD85</li>
+            <li>Primo</li>
+            <li>TVC Videoton</li>
         </ul>
     </td>
     <td>
         Vanilla CP/M z80 and 8080 +
         <ul>
-            <li>Regnecentralen RC700</li>
-            <li>Tiki-100</li>
-            <li>Sony SMC-70/SMC-777</li>
-            <li>MikroBEE</li>
-            <li>Osborne 1</li>
-            <li>Kaypro II, Kaypro 4</li>
-            <li>Epson PX-8/HC-80/HC-88</li>
-            <li>Epson PX-4/HC-40</li>
-            <li>Knight 2000/Aussie Byte</li>
-            <li>Otrona Attachè</li>
-            <li>Microbee</li>
-            <li>Toshiba Pasopia 7</li>
+            <li>Amstrad PCW</li>
             <li>Bondwell 12/14</li>
             <li>Bondwell 2</li>
+            <li>Epson PX-8/HC-80/HC-88</li>
+            <li>Epson PX-4/HC-40</li>
             <li>Gemini Galaxy</li>
+            <li>Kaypro II, Kaypro 4</li>
+            <li>Knight 2000/Aussie Byte</li>
+            <li>Microbee</li>
+            <li>MikroBEE</li>
+            <li>Nabu PC</li>
+            <li>Osborne 1</li>
+            <li>Otrona Attachè</li>
+            <li>Regnecentralen RC700</li>
+            <li>Sanyo MBC-200, 225, 1200, 1250</li>
+            <li>Sony SMC-70/SMC-777</li>
+            <li>Tiki-100</li>
+            <li>Toshiba Pasopia 7</li>
+            <li>Xerox 820</li>
         </ul>
     </td>
 </tr>
