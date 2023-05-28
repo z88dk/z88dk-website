@@ -164,6 +164,7 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
             <li>Sony SMC-70/SMC-777</li>
             <li>Tiki-100</li>
             <li>Toshiba Pasopia 7</li>
+            <li>Visual Technology 1050</li>
             <li>Xerox 820</li>
         </ul>
     </td>
