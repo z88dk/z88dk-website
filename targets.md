@@ -204,11 +204,12 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
 <tr>
     <td>
         <ul>
+            <li>Agon Light</li>
+            <li>HBIOS boards</li>
             <li>Micro85</li>
             <li>RC2014</li>
-            <li>YAZ180</li>
             <li>SC Z180 boards</li>
-            <li>HBIOS boards</li>
+            <li>YAZ180</li>
         </ul>
     </td>
 </tr>
