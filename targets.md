@@ -18,34 +18,35 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
 <tr>
     <td>
         <ul>
+            <li>Cambridge z88</li>
+            <li>Jupiter Ace</li>
+            <li>Lambda 8300</li>
+            <li>Peters Plus Sprinter</li>
+            <li>Sam Coupe</li>
             <li>Sinclair ZX80</li>
             <li>Sinclair ZX81</li>
-            <li>Lambda 8300</li>
-            <li>Jupiter Ace</li>
-            <li>ZX Spectrum</li>
             <li>Timex TS2068</li>
+            <li>ZX Spectrum</li>
             <li>ZX Spectrum Next</li>
-            <li>Sam Coupe</li>
-            <li>Cambridge z88</li>
-            <li>Peters Plus Sprinter</li>
         </ul>
     </td>
     <td>
         <ul>
-            <li>MSX1</li>
-            <li>MSX2</li>
-            <li>SpectraVideo 318</li>
-            <li>Sord M5</li>
-            <li>Memotech MTX</li>
+            <li>Bit-90</li>
+            <li>Casio PV-2000</li>
             <li>Colecovision</li>
             <li>Colecovision Adam</li>
-            <li>Casio PV-2000</li>
             <li>Hanimex Pencil II</li>
             <li>LM80-C</li>
+            <li>Memotech MTX</li>
             <li>NabuPC</li>
             <li>Nichibutsu My Vision</li>
+            <li>MSX1</li>
+            <li>MSX2</li>
             <li>Sega SC-3000/SG-1000</li>
             <li>Sega Master System + Gamegear</li>
+            <li>Sord M5</li>
+            <li>SpectraVideo 318</li>
             <li>Tatung Einstein</li>
             <li>Tatung Einstein 256</li>
         </ul>
@@ -54,11 +55,11 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
 <tr>
     <td>
         <ul>
-            <li>PC-6001 Mk2, Mk2</li>
+            <li>Bandaivision SV-8000</li>
             <li>CCE MC-1000</li>
+            <li>PC-6001 Mk2, Mk2</li>
             <li>Samsung SPC-1000</li>
             <li>VZ-200/300</li>
-            <li>Bandaivision SV-8000</li>
         </ul>
     </td>
     <td>
@@ -66,12 +67,12 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
             <li>ABC80/ABC800</li>
             <li>Amstrad CPC</li>
             <li>Amstrad NC</li>
-            <li>Mattel Aquarius</li>
+            <li>Camputers Lynx</li>
             <li>Commodore 128</li>
             <li>Dick Smith Super-80</li>
             <li>Enterprise 64/128</li>
-            <li>Camputers Lynx</li>
             <li>Grundy Newbrain</li>
+            <li>Mattel Aquarius</li>
             <li>Philips P2000</li>
             <li>Philips VG-5000</li>
             <li>VTech Laser 350/500/700</li>
@@ -89,17 +90,18 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
             <li>Casio PV-1000</li>
             <li>Mitsubishi Multi8</li>
             <li>NEC PC-8801</li>
+            <li>Sanyo MBC-200,225,1200,1250</li>
+            <li>Sony SMC-70/SMC-777 (native)</li>
             <li>S-OS (The Sentinel)</li>
             <li>Z80 TV Game</li>
-            <li>Sony SMC-70/SMC-777 (native)</li>
         </ul>
     </td>
     <td>
         <ul>
-            <li>Sharp PC-G8xx, PC-E2xx</li>
             <li>Sharp MZ80, MZ700, MZ800</li>
-            <li>Sharp OZ</li>
             <li>Sharp MZ2500</li>
+            <li>Sharp PC-G8xx, PC-E2xx</li>
+            <li>Sharp OZ</li>
             <li>Sharp X1</li>
         </ul>
     </td>
@@ -112,9 +114,10 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
             <li>Hübler/Evert-MC</li>
             <li>Hübler Grafik-MC</li>
             <li>Kramer MC</li>
+            <li>NANOS</li>
+            <li>Robotron HC-900, KC85/2..KC85/5</li>
             <li>Robotron Z1013</li>
             <li>Robotron Z9001, KC85/1, KC87</li>
-            <li>Robotron HC-900, KC85/2..KC85/5</li>
         </ul>
     </td>
     <td>
@@ -124,6 +127,7 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
             <li>Вектор-06Ц/Vector06c</li>
             <li>Krokha</li>
             <li>Lviv PK-01</li>
+            <li>PK-8000</li>
             <li>Radio86-RK</li>
         </ul>
     </td>
@@ -135,8 +139,10 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
     <td>
         <ul>
             <li>Galaxija</li>
+            <li>Galaxija Plus</li>
             <li>Homelab 2</li>
             <li>Homelab 4</li>
+            <li>TIM-011</li>
             <li>Ondra</li>
             <li>PMD85</li>
             <li>Primo</li>
@@ -184,16 +190,17 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
             <li>PTC Sol20</li>
             <li>Exidy Sorcerer</li>
             <li>TRS80</li>
+            <li>TRS80 Model 100</li>
         </ul>
     </td>
     <td>
         <ul>
-            <li>v6z80p OSCA</li>
             <li>Genius Leader Learning Computers</li>
-            <li>Pacman Hardware</li>
             <li>Nintendo Gameboy</li>
+            <li>Pacman Hardware</li>
             <li>S1MP3</li>
             <li>TI82, TI83, Ti83+, TI85, Ti86</li>
+            <li>v6z80p OSCA</li>
             <li>Xircom Rex 6000</li>
         </ul>
     </td>
