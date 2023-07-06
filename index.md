@@ -7,7 +7,8 @@ Description: The z80 development kit
 
 z88dk is the only C and assembler development kit that 
 comes ready out-of-the-box to create programs for over
-100 z80-family machines.
+100 z80-family (8080, 8085, gbz80, z80, z180, ez80_z80,
+Rabbit 2000, Rabbit 3000) machines.
 
 The project was started in 1998/9 to allow a TCP stack
 for the Cambridge z88 to be easily written. In recent years
@@ -89,10 +90,17 @@ zcc +cpm program.c -create-app -subtype=z80pack -compiler=sdcc
 
 Easy as that, no messing around with crt files, linker scripts,
 hex2bin, cpmtools etc, just one command producing a disk image containing
-a binary compiled with sdcc.
+a binary compiled with sdcc that takes advantage of our
+optimised libraries.
 
+## z88dk is also the easiest way to use llvm for the z80
 
+We've added experimental support for the ez80-clang build:
 
+```
+zcc +cpm program.c -create-app -subtype=z80pack -compiler=ez80clang
+```
 
-
+When using `-compiler=ez80clang` you can even write C++ (the standard
+library isn't available yet).
 
