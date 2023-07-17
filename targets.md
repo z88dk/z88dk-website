@@ -67,6 +67,7 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
             <li>ABC80/ABC800</li>
             <li>Amstrad CPC</li>
             <li>Amstrad NC</li>
+            <li>Aquarius Plus</li>
             <li>Camputers Lynx</li>
             <li>Commodore 128</li>
             <li>Dick Smith Super-80</li>
