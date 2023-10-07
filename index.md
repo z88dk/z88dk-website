@@ -8,7 +8,7 @@ Description: The z80 development kit
 z88dk is the only C and assembler development kit that 
 comes ready out-of-the-box to create programs for over
 100 z80-family (8080, 8085, gbz80, z80, z180, ez80_z80,
-Rabbit 2000, Rabbit 3000) machines.
+KC160, Rabbit 2000, 3000, 4000, 5000) machines.
 
 The project was started in 1998/9 to allow a TCP stack
 for the Cambridge z88 to be easily written. In recent years
