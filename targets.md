@@ -5,7 +5,7 @@ Description: Supported targets
 
 When the project began back in 199x, as the name suggests, we only 
 supported the Cambridge z88, however fairly soon support was added 
-for the ZX Spectrum, then the Xircom REX6000 and now in 2023 over 100
+for the ZX Spectrum, then the Xircom REX6000 and now in 2023 over 150
  targets are supported, some more obscure than others!
 
 There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Platform) however here's a lightly categorised list of the targets supported:
@@ -172,6 +172,7 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
             <li>Toshiba Pasopia 7</li>
             <li>Visual Technology 1050</li>
             <li>Xerox 820</li>
+            <li>...and many more</li>
         </ul>
     </td>
 </tr>
@@ -190,7 +191,7 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
             <li>PTC Sol20</li>
             <li>Exidy Sorcerer</li>
             <li>TRS80</li>
-            <li>TRS80 Model 100</li>
+            <li>TRS80 Model 100/Olivetti M10/KC85/NEC-PC8201</li>
         </ul>
     </td>
     <td>
@@ -207,6 +208,7 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
 </tr>
 <tr>
     <th>Modern hardware</th>
+    <th>Homebrew hardware</th>
 </tr>
 <tr>
     <td>
@@ -218,6 +220,18 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
             <li>RC2014</li>
             <li>SC Z180 boards</li>
             <li>YAZ180</li>
+        </ul>
+    </td>
+    <td>
+        <p>Generic support for the following CPUs:</p>
+        <ul>
+            <li>8080</li>
+            <li>8085</li>
+            <li>Z80</li>
+            <li>Z180</li>
+            <li>EZ80 (ADL=0)</li>
+            <li>KC160</li>
+            <li>Rabbit 2000/3000/4000</li>
         </ul>
     </td>
 </tr>

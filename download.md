@@ -15,6 +15,7 @@ December 2023. You can download the release version from:
 But, that's not recommended! We're always adding new features, and it's already out of date! It's much better to use the automated builds:
 
 * Nightly: http://nightly.z88dk.org (Windows, MacOS binaries)
+* Docker: https://hub.docker.com/repository/docker/z88dk/z88dk
 * Snap: https://snapcraft.io/z88dk
 * Source: http://github.com/z88dk/z88dk
 
