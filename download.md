@@ -5,8 +5,8 @@ Description: Downloads
 
 ## Downloading z88dk
 
-The latest version of z88dk is 2.1 and was released in
-February 2021. You can download the release version from:
+The latest version of z88dk is 2.3 and was released in
+December 2023. You can download the release version from:
 
 * GitHub http://github.com/z88dk/z88dk/releases
 * Sourceforge: http://sf.net/projects/z88dk
