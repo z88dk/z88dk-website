@@ -35,5 +35,4 @@ The best places are:
 * The forum http://www.z88dk.org/forum
 * Github issues: https://github.com/z88dk/z88dk/issues
 
-However, you can also tweet @z88dk and we'll see what can be done.
 
