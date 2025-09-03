@@ -57,7 +57,7 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
         <ul>
             <li>Bandaivision SV-8000</li>
             <li>CCE MC-1000</li>
-            <li>PC-6001 Mk2, Mk2</li>
+            <li>PC-6001, PC-6001mk2</li>
             <li>Samsung SPC-1000</li>
             <li>VZ-200/300</li>
         </ul>
