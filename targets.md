@@ -233,7 +233,7 @@ There's an up-to-date list on the [wiki](https://github.com/z88dk/z88dk/wiki/Pla
             <li>Z180</li>
             <li>EZ80 (ADL=0)</li>
             <li>KC160</li>
-            <li>Rabbit 2000/3000/4000</li>
+            <li>Rabbit 2000/3000/4000/5000/6000</li>
         </ul>
     </td>
 </tr>
